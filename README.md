@@ -2,7 +2,7 @@
 > **An IoT-driven timing solution for the 39th AIU West Zone Youth Festival.**
 
 <div align="center">
-  <img src="IMG-20260211-WA0002.jpg" width="600" alt="Hardware Device Presentation">
+  <img src="IMG-20260211-WA0002.jpeg" width="600" alt="Hardware Device Presentation">
   <p><i>The physical BLE Timer IoT device in action at CVM University.</i></p>
 </div>
 
